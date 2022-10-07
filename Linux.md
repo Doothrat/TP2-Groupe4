@@ -8,4 +8,3 @@
 
 Apres chaque partie il y aura des examens
 
-Et après ces examens il y aura des notes
