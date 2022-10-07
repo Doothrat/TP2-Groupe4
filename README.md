@@ -1,1 +1,1 @@
-Bonjour lisez moi
+On apprend à lire un projet
